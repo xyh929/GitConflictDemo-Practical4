@@ -21,9 +21,9 @@ Windows command-line build:
 | Student 1 | `feature-red-button` | Change both button tints to `#F44336` |
 | Student 2 | `feature-green-button` | Change both button tints to `#4CAF50` |
 
-Both students must branch from the original `main` commit and modify the same `android:backgroundTint` lines in `app/src/main/res/layout/activity_main.xml`.
+Both students must branch from the same initial version, preserved by the `initial-app` tag, and modify the same `android:backgroundTint` lines in `app/src/main/res/layout/activity_main.xml`.
 
-1. Student 2 clones the repository, runs the original application, and creates `feature-green-button` from the initial `main`.
+1. Student 2 clones the repository, creates `feature-green-button` from `initial-app`, and runs the original application. See `docs/STUDENT2.zh-CN.md` for commands.
 2. Student 1 creates a pull request from `feature-red-button` to `main` and merges it. Keep the source branch.
 3. Student 2 pushes the green implementation and creates a pull request to `main`. The red and green edits should conflict.
 4. Capture the conflicting PR and the XML conflict as evidence before resolving them.

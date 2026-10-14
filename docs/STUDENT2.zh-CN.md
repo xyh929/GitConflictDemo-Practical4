@@ -9,11 +9,10 @@
 ```bash
 git clone https://github.com/xyh929/GitConflictDemo-Practical4.git
 cd GitConflictDemo-Practical4
-git switch main
-git switch -c feature-green-button
+git switch -c feature-green-button initial-app
 ```
 
-如果红色 PR 已经合并，先通过 `git log --oneline main` 找到信息为 `Create initial Android application` 的提交，再从该提交创建绿色分支。不要从红色版本创建绿色分支。
+`initial-app` 标签保留了两人共用的初始版本（包含配置修正，按钮仍是初始颜色）。即使红色 PR 已经合并，也从这个标签创建绿色分支。不要从红色版本创建绿色分支。
 
 ## 修改绿色按钮
 
