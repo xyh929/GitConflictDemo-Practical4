@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitConflictDemo-Practical4</string>
+    <string name="practical_label">PRACTICAL 4</string>
+    <string name="title">Git Conflict Demo</string>
+    <string name="description">Two buttons. One shared project. Tap either button to try the app.</string>
+    <string name="button_one">Button One</string>
+    <string name="button_two">Button Two</string>
+    <string name="status_ready">Ready to test</string>
+    <string name="button_one_pressed">Button One pressed</string>
+    <string name="button_two_pressed">Button Two pressed</string>
+</resources>
