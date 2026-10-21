@@ -1,0 +1,23 @@
+Performing Streamed Install
+
+Success
+
+
+Starting: Intent { cmp=com.example.gitconflictdemo/.MainActivity }
+
+Status: ok
+
+LaunchState: COLD
+
+Activity: com.example.gitconflictdemo/.MainActivity
+
+TotalTime: 1787
+
+WaitTime: 1797
+
+Complete
+
+
+buttonOne: PASS (Button One pressed)
+buttonTwo: PASS (Button Two pressed)
+Screenshots saved to C:\Users\35884\AndroidStudioProjects\GitConflictDemo-Practical4\docs\evidence

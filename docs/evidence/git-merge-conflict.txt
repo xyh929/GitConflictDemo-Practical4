@@ -1,0 +1,4 @@
+$ git merge --no-commit origin/main
+Auto-merging app/src/main/res/layout/activity_main.xml
+CONFLICT (content): Merge conflict in app/src/main/res/layout/activity_main.xml
+Automatic merge failed; fix conflicts and then commit the result.

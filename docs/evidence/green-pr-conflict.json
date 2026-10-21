@@ -1,0 +1,19 @@
+{
+  "captured_at": "2026-10-21T11:11:44.070794+08:00",
+  "source": "GitHub REST API pull request response",
+  "pull_request": {
+    "number": 2,
+    "html_url": "https://github.com/xyh929/GitConflictDemo-Practical4/pull/2",
+    "state": "open",
+    "merged": false,
+    "merged_at": null,
+    "mergeable": false,
+    "mergeable_state": "dirty",
+    "merge_commit_sha": null,
+    "author": "xyh929",
+    "head": "feature-green-button-main",
+    "head_sha": "eec4c50e32234237af498e0e958836512133638c",
+    "base": "main",
+    "base_sha": "cb8dfabb7118f371aeb99e423296f1f9aca1019b"
+  }
+}
