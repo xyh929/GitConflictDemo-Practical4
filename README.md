@@ -23,7 +23,7 @@ Windows command-line build:
 
 Both students must branch from the same initial version, preserved by the `initial-app` tag, and modify the same `android:backgroundTint` lines in `app/src/main/res/layout/activity_main.xml`.
 
-1. Student 2 clones the repository and creates the green feature from `initial-app`. This repository retains the uploaded name `feature-green-button-main` at the group owner's request.
+1. Student 2 clones the repository and creates the green feature from `initial-app`, using the branch `feature-green-button-main`.
 2. Student 1 creates a pull request from `feature-red-button` to `main` and merges it. Keep the source branch.
 3. Student 2 pushes the green implementation. Student 1 creates the group's green pull request to `main`. The red and green edits conflict.
 4. Capture the conflicting PR and the XML conflict as evidence before resolving them.

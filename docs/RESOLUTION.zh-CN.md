@@ -5,7 +5,7 @@
 - Student 1：`xyh929`，红色分支 `feature-red-button`，功能提交 `5872eba`，字体预览修复 `000b089`。
 - Student 2：`hhtt1206`，上传绿色分支 `feature-green-button-main`，功能提交 `eec4c50`（原提交信息 `GREEN BOTTON`）。
 - 共同初始版本：`86e772d`，标签 `initial-app`。
-- 按仓库所有者的要求保留绿色分支现有名称。
+- 绿色分支名称为 `feature-green-button-main`。
 - 红色 PR #1 先合并；绿色 PR #2 由 Student 1 账号代表小组创建，冲突解决提交也使用 Student 1 的真实 Git 身份。保留 Student 2 原始提交及作者，没有重写其历史。
 
 ## 真实冲突与证据
